@@ -1,0 +1,9 @@
+E:\ProjectsVS\RydenTestProject\RydenTestProject\bin\Debug\RydenTestProject.exe.config
+E:\ProjectsVS\RydenTestProject\RydenTestProject\bin\Debug\RydenTestProject.exe
+E:\ProjectsVS\RydenTestProject\RydenTestProject\bin\Debug\RydenTestProject.pdb
+E:\ProjectsVS\RydenTestProject\RydenTestProject\bin\Debug\EntityFramework.dll
+E:\ProjectsVS\RydenTestProject\RydenTestProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectsVS\RydenTestProject\RydenTestProject\bin\Debug\EntityFramework.xml
+E:\ProjectsVS\RydenTestProject\RydenTestProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectsVS\RydenTestProject\RydenTestProject\obj\Debug\RydenTestProject.exe
+E:\ProjectsVS\RydenTestProject\RydenTestProject\obj\Debug\RydenTestProject.pdb
